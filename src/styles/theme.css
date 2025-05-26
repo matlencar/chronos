@@ -1,0 +1,42 @@
+:root {
+    /* Definindo os temas das cores cinzas */
+
+    --gray-100: #e6e9f0
+    --gray-200: #CDD3E1;
+    --gray-300: #AAB3CC;
+    --gray-400: #555F7D;
+    --gray-500: #454F6A;
+    --gray-600: #363D56;
+    --gray-700: #272F43;
+    --gray-800: #181F2E;
+    --gray-900: #0A0F1A;
+    
+    /* Definindo os temas das cores primarios */
+    --primary-light: #4DE7B7;
+    --primary: #0DA170;
+    --primary-dark: #065F46;
+
+    /* Definindo os temas das cores primarios */
+
+    --link-color: #10b981;
+    --link-hover: #0B8A60;
+
+    --success: #22C55E;
+    --warning: #EAB308;
+    --error: #991B1B;
+    --info: #0EA5E9;
+
+    --text-over-primary: #0A0F1A;
+    --text-over-primary-dark: #E6E9F0;
+    --text-over-primary-light: #0A0F1A;
+    --text-over-success: #0A0F1A;
+    --text-over-warning: #0A0F1A;
+    --text-over-error: #E6E9F0;
+    --text-over-info: #0A0F1A;
+
+    --text-default: #E6E6E6;
+    --text-muted: #AAB3CC;
+
+    --disabled: #555F7D;
+    --text-disabled: #AAB3CC;
+}
